@@ -1,0 +1,138 @@
+.splash-screen-11-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 852px;
+}
+.verify-your-number {
+  position: absolute;
+  top: 37px;
+  left: 121px;
+  line-height: 42px;
+  display: inline-block;
+  width: 198px;
+  height: 44px;
+}
+.please-verify-your {
+  margin: 0;
+}
+.please-verify-your-phone-container {
+  position: absolute;
+  top: 85px;
+  left: 130px;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-weight: 500;
+  color: var(--color-silver);
+  text-align: center;
+  display: inline-block;
+  width: 161px;
+  height: 55px;
+}
+.group-child15,
+.group-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 66.1px;
+  height: 36.1px;
+}
+.group-child16 {
+  top: 8px;
+  filter: blur(150px);
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66.1px;
+  height: 44.1px;
+  cursor: pointer;
+}
+.arrow-to-top-icon2 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.div1,
+.enter-verification-code {
+  position: absolute;
+  top: 253px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 201px;
+  height: 19px;
+}
+.div1 {
+  top: 287px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  width: 45px;
+  height: 23px;
+}
+.splash-screen-11-item {
+  position: absolute;
+  top: 322.5px;
+  left: 34.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+}
+.group-child17,
+.group-child18 {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 160.5px;
+  height: 61.9px;
+}
+.group-child17 {
+  top: 0;
+  background-color: var(--color-deepskyblue);
+}
+.group-child18 {
+  top: 13.6px;
+  background-color: #5065c0;
+  filter: blur(200px);
+}
+.verify {
+  position: absolute;
+  top: 16.8px;
+  left: 47.2px;
+  display: inline-block;
+  width: 67.2px;
+  height: 27.3px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 388.2px;
+  left: 116.5px;
+  width: 160.5px;
+  height: 75.5px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.splash-screen-11 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-dm-sans);
+}

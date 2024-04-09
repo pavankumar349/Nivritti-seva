@@ -1,0 +1,136 @@
+.splash-screen-13-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 852px;
+}
+.security-questions1 {
+  position: absolute;
+  top: 37px;
+  left: 122px;
+  font-size: var(--font-size-xl);
+  line-height: 42px;
+  display: inline-block;
+  width: 212px;
+  height: 44px;
+}
+.group-child23,
+.group-child24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 66.1px;
+  height: 36.1px;
+}
+.group-child24 {
+  top: 8px;
+  filter: blur(200px);
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66.1px;
+  height: 44.1px;
+  cursor: pointer;
+}
+.arrow-to-top-icon4 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.group-child25,
+.group-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-deepskyblue);
+  width: 160.5px;
+  height: 61.9px;
+}
+.group-child26 {
+  top: 13.6px;
+  filter: blur(200px);
+}
+.save1 {
+  position: absolute;
+  top: 17.8px;
+  left: 52.5px;
+  display: inline-block;
+  width: 53.5px;
+  height: 27.3px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 717.7px;
+  left: 117.5px;
+  width: 160.5px;
+  height: 75.5px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.splash-screen-13-item {
+  position: absolute;
+  top: 366px;
+  left: 17px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 360px;
+  height: 116px;
+  opacity: 0.05;
+}
+.write-your-answer {
+  position: absolute;
+  top: 380px;
+  left: 36px;
+  line-height: 21px;
+  font-weight: 500;
+  color: rgba(81, 100, 191, 0.9);
+  display: inline-block;
+  width: 171px;
+  height: 22px;
+}
+.first-schools {
+  margin: 0;
+}
+.please-write-a,
+.what-was-your-first-container {
+  position: absolute;
+  left: 31px;
+  display: inline-block;
+}
+.what-was-your-first-container {
+  top: 115px;
+  font-size: 44px;
+  line-height: 52px;
+  color: var(--color-deepskyblue);
+  width: 316px;
+  height: 164px;
+}
+.please-write-a {
+  top: 304px;
+  color: var(--color-gray-100);
+  width: 359px;
+  height: 19px;
+}
+.splash-screen-13 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+  font-family: var(--font-dm-sans);
+}

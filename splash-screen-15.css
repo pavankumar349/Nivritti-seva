@@ -1,0 +1,244 @@
+.splash-screen-15-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 852px;
+}
+.div2,
+.div3,
+.set-pin-code {
+  position: absolute;
+  line-height: 42px;
+  display: inline-block;
+  height: 44px;
+}
+.set-pin-code {
+  top: 37px;
+  left: 139px;
+  font-family: var(--font-dm-sans);
+  width: 179px;
+}
+.div2,
+.div3 {
+  top: 337px;
+  left: 90px;
+  font-weight: 500;
+  width: 8px;
+}
+.div3 {
+  top: 427px;
+  left: 87px;
+  width: 14px;
+}
+.please-set-your {
+  margin: 0;
+}
+.please-set-your-container {
+  position: absolute;
+  top: 85px;
+  left: 110px;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--font-dm-sans);
+  color: var(--color-silver);
+  text-align: center;
+  display: inline-block;
+  width: 175px;
+  height: 55px;
+}
+.group-child29,
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 66.1px;
+  height: 36.1px;
+}
+.group-child30 {
+  top: 8px;
+  filter: blur(200px);
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66.1px;
+  height: 44.1px;
+  cursor: pointer;
+}
+.arrow-to-top-icon6 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.set-pin-code1 {
+  position: absolute;
+  top: 204px;
+  left: 134px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-dm-sans);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 135px;
+}
+.group-child31,
+.group-child32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 122.8px;
+  height: 61.9px;
+}
+.group-child32 {
+  top: 13.6px;
+  filter: blur(200px);
+}
+.set1 {
+  position: absolute;
+  top: 16.8px;
+  left: 43px;
+  display: inline-block;
+  width: 37.8px;
+  height: 27.3px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 716.6px;
+  left: 135.4px;
+  width: 122.8px;
+  height: 75.5px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}
+.splash-screen-15-item {
+  position: absolute;
+  top: 250.8px;
+  left: 119.6px;
+  width: 154.2px;
+  height: 21px;
+}
+.div4,
+.splash-screen-15-inner {
+  position: absolute;
+  top: 328.4px;
+  left: 63px;
+  width: 266.5px;
+  height: 331.6px;
+}
+.div4 {
+  top: 337px;
+  left: 190px;
+  line-height: 42px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 13px;
+  height: 44px;
+}
+.div5,
+.div6 {
+  left: 189px;
+  width: 14px;
+}
+.div5 {
+  position: absolute;
+  top: 427px;
+  line-height: 42px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  height: 44px;
+}
+.div6 {
+  top: 517px;
+}
+.div10,
+.div11,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  line-height: 42px;
+  font-weight: 500;
+  display: inline-block;
+  height: 44px;
+}
+.div7 {
+  top: 608px;
+  left: 189px;
+  color: var(--color-white);
+  width: 14px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  left: 293px;
+}
+.div8 {
+  top: 337px;
+  width: 12px;
+}
+.div10,
+.div11,
+.div9 {
+  width: 13px;
+}
+.div9 {
+  top: 427px;
+  color: var(--color-white);
+}
+.div10,
+.div11 {
+  top: 517px;
+}
+.div11 {
+  left: 87px;
+  color: var(--color-white);
+}
+.android-face-icon,
+.android-fingerprint-icon {
+  position: absolute;
+  height: 5.05%;
+  width: 10.94%;
+  top: 71.36%;
+  right: 70.99%;
+  bottom: 23.59%;
+  left: 18.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.android-fingerprint-icon {
+  height: 4.23%;
+  width: 9.41%;
+  top: 71.83%;
+  right: 19.08%;
+  bottom: 23.94%;
+  left: 71.5%;
+}
+.splash-screen-15 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,210 @@
+.group-child3,
+.group-child4,
+.splash-screen-6-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 405px;
+  height: 877px;
+}
+.group-child3,
+.group-child4 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 217.1px;
+  height: 63.7px;
+}
+.group-child4 {
+  top: 14px;
+  filter: blur(200px);
+}
+.sign-up {
+  position: absolute;
+  top: 17.3px;
+  left: 67px;
+  display: inline-block;
+  width: 82.1px;
+  height: 28.1px;
+}
+.group-div {
+  position: absolute;
+  top: 548.6px;
+  left: 94px;
+  width: 217.1px;
+  height: 77.8px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.blank-line {
+  margin: 0;
+}
+.sign-up2 {
+  margin: 0;
+  color: var(--color-gray-200);
+}
+.email-address,
+.sign-up1 {
+  position: absolute;
+  left: 36px;
+  display: inline-block;
+}
+.sign-up1 {
+  top: 80px;
+  font-size: var(--font-size-21xl);
+  line-height: 42px;
+  width: 151px;
+  height: 91px;
+  color: var(--color-mediumslateblue);
+}
+.email-address {
+  top: 224px;
+  font-weight: 500;
+  width: 98px;
+  height: 17px;
+}
+.already-have-an {
+  color: var(--color-gray-100);
+}
+.login {
+  text-decoration: underline;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 804px;
+  left: 98px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  display: inline-block;
+  width: 209px;
+  height: 18px;
+  color: var(--color-deepskyblue);
+}
+.confirm-password,
+.mainideasgmailcom,
+.or,
+.password {
+  position: absolute;
+  left: 36px;
+  font-weight: 500;
+  display: inline-block;
+}
+.mainideasgmailcom {
+  top: 259px;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver);
+  width: 161px;
+  height: 20px;
+  cursor: pointer;
+}
+.confirm-password,
+.or,
+.password {
+  top: 323px;
+  width: 60px;
+  height: 17px;
+}
+.confirm-password,
+.or {
+  top: 422px;
+  width: 113px;
+  height: 18px;
+}
+.or {
+  top: 653px;
+  left: 195px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray);
+  width: 17px;
+  height: 21px;
+}
+.splash-screen-6-item {
+  position: absolute;
+  top: 295.5px;
+  left: 35.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 334px;
+  height: 1px;
+}
+.line-div,
+.splash-screen-6-child1,
+.splash-screen-6-child2,
+.splash-screen-6-inner {
+  position: absolute;
+  top: 394.5px;
+  left: 35.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 334px;
+  height: 1px;
+}
+.line-div,
+.splash-screen-6-child1,
+.splash-screen-6-child2 {
+  top: 494.5px;
+}
+.splash-screen-6-child1,
+.splash-screen-6-child2 {
+  top: 664.5px;
+  left: 93.5px;
+  width: 86px;
+}
+.splash-screen-6-child2 {
+  left: 225.5px;
+}
+.splash-screen-6-child3 {
+  position: absolute;
+  top: 691px;
+  left: 114px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke);
+  width: 65px;
+  height: 65px;
+}
+.google-icon {
+  position: absolute;
+  top: 706px;
+  left: 130px;
+  width: 34px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 691.2px;
+  left: 225.7px;
+  width: 64.8px;
+  height: 64.8px;
+}
+.mask-group-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  top: 365px;
+  left: 353.2px;
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+}
+.mask-group-icon2 {
+  top: 464.4px;
+}
+.group-icon {
+  position: absolute;
+  top: 58.3px;
+  left: 35.6px;
+  width: 84.2px;
+  height: 50.8px;
+}
+.splash-screen-6 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+  font-family: var(--font-dm-sans);
+}

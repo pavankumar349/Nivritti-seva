@@ -1,0 +1,79 @@
+.group-child41,
+.group-child42,
+.splash-screen-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 812px;
+}
+.group-child41,
+.group-child42 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 201px;
+  height: 59px;
+}
+.group-child42 {
+  top: 13px;
+  filter: blur(200px);
+}
+.get-started {
+  position: absolute;
+  top: 16px;
+  left: 44px;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 655px;
+  left: 87px;
+  width: 201px;
+  height: 72px;
+  cursor: pointer;
+}
+.welcome-to {
+  margin: 0;
+}
+.nivrittiseva4 {
+  margin: 0;
+  font-size: 36px;
+  color: var(--color-deepskyblue);
+}
+.welcome-to-nivrittiseva {
+  position: absolute;
+  top: 406px;
+  left: 56px;
+  line-height: 46.5px;
+  text-align: center;
+  font-size: 45px;
+  color: var(--color-gray-200);
+}
+.your-best-money1 {
+  position: absolute;
+  top: 528px;
+  left: 91px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.image-8-icon {
+  position: absolute;
+  top: 193px;
+  left: calc(50% - 135.5px);
+  width: 253px;
+  height: 188px;
+  object-fit: cover;
+}
+.splash-screen-2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

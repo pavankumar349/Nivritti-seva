@@ -1,0 +1,142 @@
+.splash-screen-14-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 851px;
+}
+.arrow-to-top-icon5 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.path-395-icon,
+.splash-screen-14-item {
+  position: absolute;
+  height: 25.59%;
+  width: 55.47%;
+  top: 18.43%;
+  right: 22.14%;
+  bottom: 55.99%;
+  left: 22.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path-395-icon {
+  height: 9.86%;
+  width: 24.17%;
+  top: 26.29%;
+  right: 37.91%;
+  bottom: 63.85%;
+  left: 37.91%;
+}
+.account-registed {
+  margin: 0;
+}
+.account-registed-successfully-container {
+  position: absolute;
+  top: 541px;
+  left: 17px;
+  letter-spacing: 0.01em;
+  line-height: 21px;
+  display: inline-block;
+  width: 359px;
+  height: 44px;
+  opacity: 0.6;
+}
+.congrats {
+  position: absolute;
+  top: 466px;
+  left: 39px;
+  font-size: 55px;
+  line-height: 30px;
+  display: inline-block;
+  width: 315px;
+  height: 32px;
+}
+.ellipse-icon,
+.splash-screen-14-child1,
+.splash-screen-14-inner {
+  position: absolute;
+  height: 1.88%;
+  width: 4.07%;
+  top: 13.62%;
+  right: 61.32%;
+  bottom: 84.51%;
+  left: 34.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.6;
+}
+.ellipse-icon,
+.splash-screen-14-child1 {
+  height: 1.17%;
+  width: 2.29%;
+  top: 44.01%;
+  right: 15.78%;
+  bottom: 54.81%;
+  left: 81.93%;
+  opacity: 0.5;
+}
+.splash-screen-14-child1 {
+  width: 2.54%;
+  top: 38.03%;
+  right: 81.42%;
+  bottom: 60.8%;
+  left: 16.03%;
+  opacity: 0.25;
+}
+.group-child27,
+.group-child28 {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 160.3px;
+  height: 61.8px;
+}
+.group-child27 {
+  top: 0;
+  background-color: var(--color-deepskyblue);
+}
+.group-child28 {
+  top: 13.6px;
+  background-color: #5066c0;
+  filter: blur(200px);
+}
+.great {
+  position: absolute;
+  top: 17.5px;
+  left: 48.7px;
+  display: inline-block;
+  width: 73px;
+  height: 28px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 666.5px;
+  left: 116.3px;
+  width: 160.3px;
+  height: 75.5px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.splash-screen-14 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-deepskyblue);
+  font-family: var(--font-dm-sans);
+}

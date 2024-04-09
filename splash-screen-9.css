@@ -1,0 +1,135 @@
+.splash-screen-9-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 851px;
+}
+.phone-number {
+  position: absolute;
+  top: 37px;
+  left: 127px;
+  line-height: 42px;
+  display: inline-block;
+  width: 151px;
+  height: 44px;
+}
+.please-add-your {
+  margin: 0;
+}
+.please-add-your-container {
+  position: absolute;
+  top: 85px;
+  left: 70px;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-weight: 500;
+  color: var(--color-silver);
+  text-align: center;
+  display: inline-block;
+  width: 256px;
+  height: 55px;
+}
+.group-child11,
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 66px;
+  height: 36.1px;
+}
+.group-child12 {
+  top: 7.9px;
+  background-color: var(--color-royalblue-200);
+  filter: blur(200px);
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66px;
+  height: 44px;
+  cursor: pointer;
+}
+.arrow-to-top-icon1 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.div,
+.phone-number1 {
+  position: absolute;
+  top: 253px;
+  left: 35px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 113px;
+}
+.div {
+  top: 287px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+  width: 147px;
+  height: 18px;
+}
+.splash-screen-9-item {
+  position: absolute;
+  top: 322.5px;
+  left: 34.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 208.6px;
+  height: 61.8px;
+}
+.group-child14 {
+  top: 13.6px;
+  background-color: var(--color-royalblue-200);
+  filter: blur(200px);
+}
+.confirm {
+  position: absolute;
+  top: 16.8px;
+  left: 55.5px;
+  display: inline-block;
+  width: 98.5px;
+  height: 27.2px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 387.8px;
+  left: 92.2px;
+  width: 208.6px;
+  height: 75.5px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.splash-screen-9 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,236 @@
+.splash-screen-16-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 851px;
+}
+.div12,
+.div13,
+.login2 {
+  position: absolute;
+  line-height: 42px;
+  display: inline-block;
+  height: 44px;
+}
+.login2 {
+  top: 37px;
+  left: 171px;
+  font-family: var(--font-dm-sans);
+  width: 52px;
+}
+.div12,
+.div13 {
+  top: 336px;
+  left: 90px;
+  font-weight: 500;
+  width: 7px;
+}
+.div13 {
+  top: 427px;
+  left: 87px;
+  width: 14px;
+}
+.please-enter-your {
+  margin: 0;
+}
+.please-enter-your-pin-container {
+  position: absolute;
+  top: 85px;
+  left: 120px;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--font-dm-sans);
+  color: var(--color-silver);
+  text-align: center;
+  display: inline-block;
+  width: 153px;
+  height: 55px;
+}
+.group-child33,
+.group-child34 {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 66px;
+  height: 36.1px;
+}
+.group-child33 {
+  top: 0;
+  background-color: var(--color-deepskyblue);
+}
+.group-child34 {
+  top: 7.9px;
+  background-color: #5165bf;
+  filter: blur(200px);
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66px;
+  height: 44px;
+  cursor: pointer;
+}
+.arrow-to-top-icon7 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.enter-pin-code {
+  position: absolute;
+  top: 203px;
+  left: 129px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-dm-sans);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 145px;
+  height: 17px;
+}
+.group-child35,
+.group-child36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-deepskyblue);
+  width: 122.6px;
+  height: 61.8px;
+}
+.group-child36 {
+  top: 13.6px;
+  filter: blur(200px);
+}
+.go {
+  position: absolute;
+  top: 16.8px;
+  left: 47.2px;
+  display: inline-block;
+  width: 30.4px;
+  height: 27.2px;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 715.8px;
+  left: 135.2px;
+  width: 122.6px;
+  height: 75.5px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}
+.splash-screen-16-item {
+  position: absolute;
+  top: 250.5px;
+  left: 119.5px;
+  width: 154.1px;
+  height: 21px;
+}
+.splash-screen-16-inner {
+  position: absolute;
+  top: 328px;
+  left: 62.9px;
+  width: 266.2px;
+  height: 331.2px;
+}
+.div14,
+.div15 {
+  position: absolute;
+  line-height: 42px;
+  font-weight: 500;
+  display: inline-block;
+  height: 44px;
+}
+.div14 {
+  top: 336px;
+  left: 190px;
+  color: var(--color-white);
+  width: 12px;
+}
+.div15 {
+  top: 427px;
+  left: 189px;
+  width: 13px;
+}
+.div16 {
+  top: 517px;
+  left: 189px;
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21 {
+  position: absolute;
+  line-height: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 13px;
+  height: 44px;
+}
+.div17 {
+  top: 607px;
+  left: 189px;
+  color: var(--color-white);
+}
+.div18,
+.div19,
+.div20,
+.div21 {
+  top: 336px;
+  left: 292px;
+}
+.div19,
+.div20,
+.div21 {
+  top: 427px;
+  width: 14px;
+}
+.div20,
+.div21 {
+  top: 517px;
+}
+.div21 {
+  left: 87px;
+  width: 13px;
+}
+.android-face-icon1,
+.android-fingerprint-icon1 {
+  position: absolute;
+  height: 5.05%;
+  width: 10.94%;
+  top: 71.24%;
+  right: 70.99%;
+  bottom: 23.71%;
+  left: 18.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.android-fingerprint-icon1 {
+  height: 4.34%;
+  width: 9.41%;
+  top: 71.71%;
+  right: 19.08%;
+  bottom: 23.94%;
+  left: 71.5%;
+}
+.splash-screen-16 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

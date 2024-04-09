@@ -1,0 +1,47 @@
+.nivrittiseva2 {
+  position: absolute;
+  top: 382px;
+  left: 57px;
+  line-height: 51px;
+  text-align: center;
+}
+.your-best-money {
+  position: absolute;
+  top: 445px;
+  left: 90px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  display: inline-block;
+  width: 217px;
+}
+.nivrittiseva3,
+.your-best-money {
+  color: var(--color-royalblue-300);
+}
+.secured-by-nivrittiseva-container {
+  position: absolute;
+  top: 751px;
+  left: 107px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.image-7-icon {
+  position: absolute;
+  top: 182px;
+  left: calc(50% - 126.5px);
+  width: 253px;
+  height: 188px;
+  object-fit: cover;
+}
+.splash-screen-1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 54px;
+  color: var(--color-deepskyblue);
+  font-family: var(--font-dm-sans);
+}

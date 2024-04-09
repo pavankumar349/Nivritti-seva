@@ -1,0 +1,211 @@
+.splash-screen-12-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 851px;
+}
+.security-questions {
+  position: absolute;
+  top: 37px;
+  left: 122px;
+  font-size: var(--font-size-xl);
+  line-height: 42px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 198px;
+  height: 44px;
+}
+.group-child19,
+.group-child20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue);
+  width: 66px;
+  height: 36.1px;
+}
+.group-child20 {
+  top: 7.9px;
+  filter: blur(200px);
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 40.9px;
+  left: 36.7px;
+  width: 66px;
+  height: 44px;
+  cursor: pointer;
+}
+.arrow-to-top-icon3 {
+  position: absolute;
+  top: 46px;
+  left: 57px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.please-add-atleast {
+  position: absolute;
+  top: 125px;
+  left: 37px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 321px;
+  height: 56px;
+}
+.splash-screen-12-item {
+  position: absolute;
+  top: 225px;
+  left: 18px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue);
+  width: 359px;
+  height: 51px;
+  opacity: 0.05;
+}
+.splash-screen-12-child1,
+.splash-screen-12-child2,
+.splash-screen-12-child3,
+.splash-screen-12-child4,
+.splash-screen-12-inner {
+  position: absolute;
+  top: 380px;
+  left: 18px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 359px;
+  height: 51px;
+  opacity: 0.05;
+}
+.splash-screen-12-child1,
+.splash-screen-12-child2,
+.splash-screen-12-child3,
+.splash-screen-12-child4 {
+  top: 458px;
+  height: 50px;
+}
+.splash-screen-12-child2,
+.splash-screen-12-child3,
+.splash-screen-12-child4 {
+  top: 536px;
+  background-color: var(--color-mediumslateblue);
+}
+.splash-screen-12-child3,
+.splash-screen-12-child4 {
+  top: 613px;
+  background-color: var(--color-midnightblue);
+}
+.splash-screen-12-child4 {
+  top: 303px;
+  background-color: var(--color-mediumslateblue);
+}
+.name-of-your,
+.what-is-your,
+.what-is-your1,
+.what-is-your2,
+.what-is-your3,
+.what-was-your {
+  position: absolute;
+  top: 239px;
+  left: 44px;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+  width: 257px;
+  height: 22px;
+}
+.name-of-your,
+.what-is-your,
+.what-is-your1,
+.what-is-your2,
+.what-is-your3 {
+  top: 394px;
+  width: 203px;
+}
+.what-is-your,
+.what-is-your1,
+.what-is-your2,
+.what-is-your3 {
+  top: 472px;
+  width: 250px;
+}
+.what-is-your1,
+.what-is-your2,
+.what-is-your3 {
+  top: 549px;
+  width: 244px;
+}
+.what-is-your2,
+.what-is-your3 {
+  top: 627px;
+  width: 208px;
+}
+.what-is-your3 {
+  top: 316px;
+  width: 131px;
+  height: 23px;
+}
+.splash-screen-12-child5,
+.splash-screen-12-child6,
+.splash-screen-12-child7 {
+  position: absolute;
+  top: 241px;
+  left: 339.6px;
+  width: 18.9px;
+  height: 18.9px;
+}
+.splash-screen-12-child6,
+.splash-screen-12-child7 {
+  top: 551.2px;
+}
+.splash-screen-12-child7 {
+  top: 318.6px;
+}
+.group-child21,
+.group-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-deepskyblue);
+  width: 160.3px;
+  height: 61.8px;
+}
+.group-child22 {
+  top: 13.6px;
+  filter: blur(200px);
+}
+.save {
+  position: absolute;
+  top: 17.8px;
+  left: 51.4px;
+  display: inline-block;
+  width: 53.4px;
+  height: 27.2px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 716.8px;
+  left: 118.4px;
+  width: 160.3px;
+  height: 75.5px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.splash-screen-12 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-royalblue-400);
+  font-family: var(--font-dm-sans);
+}
